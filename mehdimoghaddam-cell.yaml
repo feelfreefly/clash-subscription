@@ -879,7 +879,7 @@ proxy-groups:
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: https://www.google.com
-    interval: 1500
+    interval: 300
     proxies:
       - github.com/mehdimoghaddam-cell_1
       - github.com/mehdimoghaddam-cell_2
