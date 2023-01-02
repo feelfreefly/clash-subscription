@@ -354,10 +354,10 @@ proxies:
   - {name: Telegram Channel:@BYEBYEFILTER 249, server: 162.159.153.2, port: 443, type: vmess, uuid: b5f0ac18-e0fa-4437-a3a6-8a457eeaea0d, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: fr.xn--94q352ahyl.xyz}}
   - {name: Telegram Channel:@BYEBYEFILTER 250, server: free.say-her-name.xyz, port: 443, type: vmess, uuid: 8a287e0c-8bcf-4ac6-af2e-f70670448850, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /graphql, ws-headers: {Host: free.say-her-name.xyz}}
 proxy-groups:
-  - name: 🔰 All Proxies
+  - name: 🔰 همه پروکسی ها
     type: select
     proxies:
-      - ♻️ Automatic selection
+      - ♻️ انتخاب خودکار
       - DIRECT
       - Telegram Channel:@BYEBYEFILTER
       - Telegram Channel:@BYEBYEFILTER 2
@@ -609,7 +609,7 @@ proxy-groups:
       - Telegram Channel:@BYEBYEFILTER 248
       - Telegram Channel:@BYEBYEFILTER 249
       - Telegram Channel:@BYEBYEFILTER 250
-  - name: ♻️ Automatic selection
+  - name: ♻️ انتخاب خودکار
     type: url-test
     url: https://www.google.com
     interval: 300
@@ -875,4 +875,4 @@ proxy-groups:
     proxies:
       - REJECT
 rules:
-- MATCH ,🔰 All Proxies ,♻️ Automatic selection
+- MATCH ,🔰 همه پروکسی ها ,♻️ انتخاب خودکار
