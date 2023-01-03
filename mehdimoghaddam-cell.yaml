@@ -2,8 +2,8 @@
 #-------------------------------------------------------------#
 # Created by: https://github.com/mehdimoghaddam-cell
 # Telegram Channel:@BYEBYEFILTER
-# Creation time: 2023-1-1 1:04 AM
-# Number of nodes: 250
+# Creation time: ：2023-01-03 15:05:39
+# Number of nodes: 76
 #-------------------------------------------------------------#
 port: 7890
 socks-port: 7891
@@ -103,768 +103,250 @@ dns:
     - "*.ipv6.microsoft.com"
     - speedtest.cros.wr.pvp.net
 proxies:
-  - {name: Telegram Channel:@BYEBYEFILTER, server: 148.66.56.99, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 2, server: 148.66.56.99, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 3, server: 148.66.56.99, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 4, server: 148.66.56.99, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 5, server: 148.66.56.99, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 6, server: 148.66.56.99, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 7, server: 148.66.56.99, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 8, server: 38.68.134.196, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 9, server: 38.68.134.196, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 10, server: 38.68.134.196, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 11, server: 38.68.134.196, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 12, server: 38.68.134.196, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 13, server: 38.68.134.196, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 14, server: 38.68.134.196, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 15, server: 38.68.134.196, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 16, server: 38.68.134.196, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 17, server: 38.68.134.196, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 18, server: 38.68.134.196, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 19, server: 38.68.134.196, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 20, server: 38.68.134.196, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 21, server: 38.68.134.196, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 22, server: 38.68.134.196, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 23, server: 38.68.134.196, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 24, server: 38.68.134.196, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 25, server: 38.68.134.196, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 26, server: 38.68.134.196, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 27, server: 38.68.134.196, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 28, server: 38.68.134.196, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 29, server: 38.68.134.196, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Telegram Channel:@BYEBYEFILTER 30, server: 37.32.28.228, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: jinajina123}
-  - {name: Telegram Channel:@BYEBYEFILTER 31, server: 38.68.134.191, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 32, server: 38.68.134.191, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 33, server: 38.68.134.191, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 34, server: 38.68.134.191, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 35, server: 38.91.102.30, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 36, server: 38.91.102.30, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: Telegram Channel:@BYEBYEFILTER 37, server: 38.121.43.71, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 38, server: 38.121.43.71, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 39, server: 38.121.43.71, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 40, server: 38.68.134.191, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 41, server: 38.68.134.191, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 42, server: 38.68.134.191, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 43, server: 38.68.134.9, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 44, server: 38.91.101.159, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 45, server: 38.91.101.159, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 46, server: 38.91.101.159, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 47, server: 38.91.102.30, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 48, server: 38.91.102.30, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 49, server: 38.91.102.30, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 50, server: 38.91.102.30, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 51, server: 38.91.102.30, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: Telegram Channel:@BYEBYEFILTER 52, server: 38.68.134.191, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 53, server: 38.68.134.191, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 54, server: 38.68.134.191, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 55, server: 38.91.102.30, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 56, server: 38.91.102.30, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 57, server: s4.shadoshop.ga, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 58, server: s4.shadoshop.ga, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Telegram Channel:@BYEBYEFILTER 59, server: 38.121.43.71, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 60, server: 38.68.134.191, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 61, server: 38.68.134.191, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 62, server: 38.68.134.48, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 63, server: 38.68.134.48, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 64, server: 38.68.134.9, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 65, server: 38.68.134.9, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 66, server: 38.91.101.159, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 67, server: 38.91.102.30, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 68, server: 38.91.102.30, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 69, server: 38.91.102.30, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 70, server: 38.91.102.30, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: Telegram Channel:@BYEBYEFILTER 71, server: 38.121.43.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 72, server: 38.121.43.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 73, server: 38.121.43.71, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 74, server: 38.121.43.71, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 75, server: 38.68.134.191, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 76, server: 38.68.134.9, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 77, server: 38.91.101.159, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: Telegram Channel:@BYEBYEFILTER 78, server: 38.121.43.71, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 79, server: 38.121.43.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 80, server: 38.121.43.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 81, server: 38.68.134.191, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 82, server: 38.68.134.191, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 83, server: 38.68.134.9, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 84, server: 38.91.101.159, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 85, server: 38.91.101.159, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 86, server: 38.91.102.30, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 87, server: 38.91.102.30, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 88, server: 38.91.102.30, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: Telegram Channel:@BYEBYEFILTER 89, server: 38.121.43.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 90, server: 38.121.43.71, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 91, server: 38.121.43.71, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 92, server: 38.121.43.71, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 93, server: 38.121.43.71, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 94, server: 38.121.43.71, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 95, server: 38.68.134.191, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 96, server: 38.68.134.191, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 97, server: 38.68.134.191, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 98, server: 38.68.134.191, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 99, server: 38.68.134.191, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 100, server: 38.68.134.48, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 101, server: 38.68.134.48, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 102, server: 38.68.134.48, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 103, server: 38.68.134.48, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 104, server: 38.68.134.48, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 105, server: 38.68.134.9, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 106, server: 38.68.134.9, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 107, server: 38.68.134.9, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 108, server: 38.68.134.9, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 109, server: 38.91.101.159, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 110, server: 38.91.101.159, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 111, server: 38.91.101.159, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 112, server: 38.91.101.159, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 113, server: 38.91.102.30, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 114, server: 38.91.102.30, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 115, server: 38.91.102.30, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 116, server: 38.91.102.30, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 117, server: 38.91.102.30, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 118, server: 38.91.102.30, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 119, server: 38.91.106.75, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: Telegram Channel:@BYEBYEFILTER 120, server: 38.121.43.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 121, server: 38.121.43.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 122, server: 38.68.134.191, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 123, server: 38.68.134.191, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 124, server: 38.68.134.9, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 125, server: 38.91.101.159, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 126, server: 38.91.102.30, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 127, server: 38.91.102.30, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 128, server: 38.91.102.30, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 129, server: 38.91.102.30, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: Telegram Channel:@BYEBYEFILTER 130, server: 38.121.43.71, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 131, server: 38.121.43.71, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 132, server: 38.68.134.191, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 133, server: 38.68.134.191, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 134, server: 38.68.134.48, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 135, server: 38.68.134.48, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 136, server: 38.68.134.9, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 137, server: 38.68.134.9, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 138, server: 38.91.101.159, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 139, server: 38.91.101.159, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 140, server: 38.91.102.30, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 141, server: 38.91.102.30, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 142, server: 38.91.102.30, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 143, server: 38.91.102.30, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: Telegram Channel:@BYEBYEFILTER 144, server: 38.121.43.71, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 145, server: 38.121.43.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 146, server: 38.68.134.191, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 147, server: 38.68.134.191, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 148, server: 38.68.134.191, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 149, server: 38.68.134.48, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 150, server: 38.68.134.48, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 151, server: 38.68.134.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 152, server: 38.91.101.159, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 153, server: 38.91.101.159, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 154, server: 38.91.101.159, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 155, server: 38.91.102.30, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: Telegram Channel:@BYEBYEFILTER 156, server: 38.68.134.191, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: Telegram Channel:@BYEBYEFILTER 157, server: 38.68.134.191, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: Telegram Channel:@BYEBYEFILTER 158, server: 38.68.134.9, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: Telegram Channel:@BYEBYEFILTER 159, server: 38.91.101.159, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: Telegram Channel:@BYEBYEFILTER 160, server: 38.91.101.159, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: Telegram Channel:@BYEBYEFILTER 161, server: 38.121.43.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 162, server: 38.121.43.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 163, server: 38.68.134.191, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 164, server: 38.68.134.191, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 165, server: 38.68.134.9, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 166, server: 38.91.102.30, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 167, server: 38.91.102.30, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: Telegram Channel:@BYEBYEFILTER 168, server: 38.68.134.191, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: Telegram Channel:@BYEBYEFILTER 169, server: 38.68.134.9, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: Telegram Channel:@BYEBYEFILTER 170, server: 38.91.102.30, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: Telegram Channel:@BYEBYEFILTER 171, server: 38.91.106.75, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: Telegram Channel:@BYEBYEFILTER 172, server: 38.121.43.71, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: Telegram Channel:@BYEBYEFILTER 173, server: 38.68.134.191, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: Telegram Channel:@BYEBYEFILTER 174, server: 38.68.134.9, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: Telegram Channel:@BYEBYEFILTER 175, server: 38.91.101.159, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: Telegram Channel:@BYEBYEFILTER 176, server: 38.91.102.30, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: Telegram Channel:@BYEBYEFILTER 177, server: supsig.xiaohouzi.club, port: 10102, type: trojan, password: f52e6827-d087-3fd0-9c66-ef87874c69ba, sni: supsig.xiaohouzi.club}
-  - {name: Telegram Channel:@BYEBYEFILTER 178, server: 47.242.17.241, port: 44207, type: vmess, uuid: 77c6c520-2d37-495a-a954-c8d056e89053, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 179, server: 51.81.220.195, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /sshkit/Variu88/634dab7abadf1/, ws-headers: {Host: 51.81.220.195}}
-  - {name: Telegram Channel:@BYEBYEFILTER 180, server: technews.erupaviran.ga, port: 46674, type: vmess, uuid: 4889a755-8d36-4061-ec5c-711e456658ae, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 181, server: 47.242.44.222, port: 63376, type: vmess, uuid: 5343352c-ccc5-43f9-b08a-7425e5cc73dd, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 182, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: hk-gcore.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 183, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: jp-ntt.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 184, server: cdnsg.casperco.online, port: 2083, type: vmess, uuid: a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnsg.casperco.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 185, server: 172.67.199.34, port: 2096, type: vmess, uuid: 2ae9835e-381b-4228-95df-bce39ee1a4eb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 186, server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 187, server: 47.243.23.80, port: 20256, type: vmess, uuid: f707fd08-f017-4b9b-aeae-da908b34e313, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 188, server: 65.109.133.5, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 189, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 190, server: xvnp.de, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 191, server: speed.cloudflare.com, port: 443, type: vmess, uuid: 7a24d0b1-0bda-4738-bf7e-0a159e3f70c6, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: dame-ep-barnes-clone.trycloudflare.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 192, server: 162.159.141.221, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 193, server: 103.21.244.230, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 194, server: free.say-her-name.xyz, port: 443, type: vmess, uuid: 8a287e0c-8bcf-4ac6-af2e-f70670448850, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /graphql, ws-headers: {Host: free.say-her-name.xyz}}
-  - {name: Telegram Channel:@BYEBYEFILTER 195, server: 103.21.244.17, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 196, server: 103.21.244.219, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 197, server: 162.159.141.221, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 198, server: 173.245.49.190, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: SG-244-255.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 199, server: 188.114.96.14, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 200, server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 201, server: 51.81.220.195, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /sshkit/Variu88/634dab7abadf1/, ws-headers: {Host: 51.81.220.195}}
-  - {name: Telegram Channel:@BYEBYEFILTER 202, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: hk-gcore.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 203, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: jp-ntt.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 204, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore-2.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 205, server: gog.vpnmstere.gq, port: 22699, type: vmess, uuid: 34f97a85-6e1b-477c-92d6-10a01250ab15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: gog.vpnmstere.gq}}
-  - {name: Telegram Channel:@BYEBYEFILTER 206, server: emea-ru-mow-01-edgecast.qdns.live, port: 2053, type: vmess, uuid: cbbcfa10-6aa3-39bc-96e0-a5899553138a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: emea-ru-mow-01-edgecast.qdns.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 207, server: stock.hostmonit.com, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-do.behiasew98123.rocks}}
-  - {name: Telegram Channel:@BYEBYEFILTER 208, server: tray.tawanaclub.tk, port: 20672, type: vmess, uuid: e3cf4021-5f21-4668-cd37-e8395841cb44, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /tawanaproxy6, ws-headers: {Host: tray.tawanaclub.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 209, server: usa.aiyun.769088.xyz, port: 25698, type: vmess, uuid: 5fcb05ff-76a7-4031-a15f-9b49581f5974, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /coinsinic, ws-headers: {Host: usa.aiyun.769088.xyz}}
-  - {name: Telegram Channel:@BYEBYEFILTER 210, server: v2ray.wefuckgfw.tk, port: 2096, type: vmess, uuid: 2ae9835e-381b-4228-95df-bce39ee1a4eb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 211, server: v2ray.wefuckgfw.tk, port: 2096, type: vmess, uuid: ec1af151-9562-4fb2-919f-5506647aa5dc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 212, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp3.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 213, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp3.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 214, server: vjp3.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp3.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 215, server: vus2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vus2.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 216, server: vus2.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vus2.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 217, server: xvnp.de, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 218, server: xvnp.de, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 219, server: v2ray.wefuckgfw.tk, port: 2096, type: vmess, uuid: ec1af151-9562-4fb2-919f-5506647aa5dc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 220, server: 172.67.199.34, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 221, server: cm.sylu.cyou, port: 443, type: vmess, uuid: 12e08256-da5d-4b1c-aeca-8c973ccceef8, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /Falling42gcssgnode, ws-headers: {Host: gcssg.sylu.cyou}}
-  - {name: Telegram Channel:@BYEBYEFILTER 222, server: cm.sylu.cyou, port: 443, type: vmess, uuid: 12e08256-da5d-4b1c-aeca-8c973ccceef8, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /Falling42newtudousgnode, ws-headers: {Host: newtudousg.sylu.cyou}}
-  - {name: Telegram Channel:@BYEBYEFILTER 223, server: cm.sylu.cyou, port: 443, type: vmess, uuid: 12e08256-da5d-4b1c-aeca-8c973ccceef8, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /Falling42gcssjpnode, ws-headers: {Host: gcssjp.sylu.cyou}}
-  - {name: Telegram Channel:@BYEBYEFILTER 224, server: twdns.sylu.cyou, port: 443, type: vmess, uuid: 12e08256-da5d-4b1c-aeca-8c973ccceef8, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /Falling42gcorehknode, ws-headers: {Host: gcorehk.sylu.cyou}}
-  - {name: Telegram Channel:@BYEBYEFILTER 225, server: 188.114.96.3, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 226, server: xvnp.de, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 227, server: gog.vpnmstere.gq, port: 22699, type: vmess, uuid: 34f97a85-6e1b-477c-92d6-10a01250ab15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: gog.vpnmstere.gq}}
-  - {name: Telegram Channel:@BYEBYEFILTER 228, server: cacerts.digicert.com, port: 2096, type: vmess, uuid: 2ae9835e-381b-4228-95df-bce39ee1a4eb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 229, server: xvnp.de, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 230, server: 51.77.158.169, port: 2096, type: vmess, uuid: c92fd902-b5d3-4208-bb48-630b1c7babea, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 51.77.158.169}}
-  - {name: Telegram Channel:@BYEBYEFILTER 231, server: vjp1.0bad.com, port: 443, type: vmess, uuid: 927094d3-d678-4763-8591-e240d0bcae87, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chat, ws-headers: {Host: vjp1.0bad.com}}
-  - {name: Telegram Channel:@BYEBYEFILTER 232, server: free.say-her-name.xyz, port: 443, type: vmess, uuid: 8a287e0c-8bcf-4ac6-af2e-f70670448850, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /graphql, ws-headers: {Host: free.say-her-name.xyz}}
-  - {name: Telegram Channel:@BYEBYEFILTER 233, server: 162.159.128.7, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 234, server: 188.114.97.2, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 235, server: 188.114.96.14, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 236, server: v2ray.wefuckgfw.tk, port: 2096, type: vmess, uuid: ec1af151-9562-4fb2-919f-5506647aa5dc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ezN9pvil/, ws-headers: {Host: v2ray.wefuckgfw.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 237, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: sg-gcore.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 238, server: 172.64.156.232, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 239, server: 172.67.199.34, port: 443, type: vmess, uuid: a25881f3-967f-3265-bc7f-9e66857b016b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /nl-unlimitxxx, ws-headers: {Host: v12a.toddns.tk}}
-  - {name: Telegram Channel:@BYEBYEFILTER 240, server: 173.245.49.113, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 241, server: 173.245.49.141, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 242, server: 173.245.49.23, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /8cda48b3, ws-headers: {Host: us-171-78.shoptunnel.live}}
-  - {name: Telegram Channel:@BYEBYEFILTER 243, server: cf-yd-hkg-dns.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: jp-ntt.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 244, server: cf-yd-hkg-dns.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: jp-ntt.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 245, server: 188.114.97.3, port: 443, type: vmess, uuid: 1d7f97be-e0a9-4377-97eb-c05c45392509, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /in-vpn-majani-ast-vws, ws-headers: {Host: xvnp.de}}
-  - {name: Telegram Channel:@BYEBYEFILTER 246, server: 142.93.237.161, port: 39839, type: vmess, uuid: 0da4b9b2-590c-40ca-cf5c-26bf1740ede9, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 247, server: hel1.yazdan.fun, port: 19730, type: vmess, uuid: e74af7d3-b7ba-462f-ea1e-9e033e5edd73, alterId: 0, cipher: auto, tls: false}
-  - {name: Telegram Channel:@BYEBYEFILTER 248, server: 172.67.248.1, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /shirker, ws-headers: {Host: opc-jp.sharecentre.online}}
-  - {name: Telegram Channel:@BYEBYEFILTER 249, server: 162.159.153.2, port: 443, type: vmess, uuid: b5f0ac18-e0fa-4437-a3a6-8a457eeaea0d, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: fr.xn--94q352ahyl.xyz}}
-  - {name: Telegram Channel:@BYEBYEFILTER 250, server: free.say-her-name.xyz, port: 443, type: vmess, uuid: 8a287e0c-8bcf-4ac6-af2e-f70670448850, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /graphql, ws-headers: {Host: free.say-her-name.xyz}}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_102","server":"sportnewsforfifawc2022.site","port":443,"password":"2d384ba7-7cc9-4060-9b0b-89f0f9e92c7d","udp":true,"skip-cert-verify":true,"sni":"sportnewsforfifawc2022.site"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1055","server":"38.68.134.196","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1110","server":"38.68.134.9","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1182","server":"38.121.43.71","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1203","server":"38.91.101.159","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1218","server":"38.68.134.9","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1236","server":"38.121.43.71","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1252","server":"38.68.134.191","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1273","server":"38.121.43.71","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1289","server":"38.121.43.71","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1291","server":"38.91.101.159","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1310","server":"38.68.134.9","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1392","server":"38.121.43.71","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1429","server":"38.68.134.48","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1544","server":"38.91.106.75","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1632","server":"38.68.134.191","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1646","server":"38.121.43.71","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1754","server":"38.68.134.191","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1755","server":"38.68.134.196","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1791","server":"38.121.43.71","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1792","server":"38.68.134.191","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"github_mehdimoghaddam-cell_1800","server":"hk1vdf-node.aiqiche123.com","port":8189,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":10,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_1801","server":"sky998dmit3.xyz","port":443,"password":"RRy34GGwsPt47SuC","udp":true,"skip-cert-verify":true,"sni":"sky998dmit3.xyz"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1812","server":"38.68.134.191","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1849","server":"38.121.43.71","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"vmess","name":"github_mehdimoghaddam-cell_1926","server":"in-v2ray.freevmess.com","port":8443,"uuid":"52d5e8b5-661b-440e-cd79-4bda8664d3f3","alterId":0,"cipher":"auto","network":"tcp","tls":true}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1941","server":"38.121.43.71","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1955","server":"38.91.101.159","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_1966","server":"148.66.56.99","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2082","server":"38.68.134.48","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2113","server":"148.66.56.99","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2118","server":"38.121.43.71","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2133","server":"38.68.134.191","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2247","server":"38.68.134.48","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2264","server":"38.91.101.159","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_2267","server":"eu-east-ruo.openssl3.com","port":443,"password":"9KogHwaY7hVD","udp":true,"skip-cert-verify":true,"sni":"eu-east-ruo.openssl3.com"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2297","server":"38.68.134.191","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_231","server":"38.68.134.191","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2352","server":"38.68.134.191","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2368","server":"38.121.43.71","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2407","server":"38.68.134.48","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2459","server":"38.68.134.191","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_2468","server":"tr10.tgcunzhang.xyz","port":54324,"password":"2a9ba60d-10ce-4f79-97e7-817334456195","udp":true,"skip-cert-verify":true,"sni":"tr10.tgcunzhang.xyz"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2478","server":"38.68.134.9","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2515","server":"38.68.134.191","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2546","server":"38.121.43.71","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2547","server":"38.68.134.191","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_256","server":"jp-tk-31.fuckjdieng.uk","port":50018,"password":"db1e292f-5dbb-451f-a7ec-f85e1c80d5d8","udp":true,"skip-cert-verify":true,"sni":"jp-tk-31.fuckjdieng.uk"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2614","server":"38.91.101.159","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_2645","server":"38.68.134.191","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_265","server":"38.68.134.191","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_266","server":"38.68.134.9","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_283","server":"38.91.101.159","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"vmess","name":"github_mehdimoghaddam-cell_284","ws-opts":{"path":"/"},"server":"68.183.83.94","port":59477,"uuid":"b8f6a71c-6925-4e84-fb93-6e54f8d98b25","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_405","server":"38.91.101.159","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_421","server":"38.121.43.71","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"trojan","name":"github_mehdimoghaddam-cell_426","server":"kr-s-2.fuckjdieng.uk","port":50334,"password":"38f06c85-4a37-4cad-811f-9fb7f6e9cab6","udp":true,"skip-cert-verify":true,"sni":"kr-s-2.fuckjdieng.uk"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_433","server":"148.66.56.99","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"github_mehdimoghaddam-cell_460","ws-opts":{"path":"/"},"server":"cdnsg.casperco.online","port":2083,"uuid":"a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_490","server":"38.91.101.159","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_572","server":"38.68.134.9","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_58","server":"38.68.134.9","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_610","server":"38.91.101.159","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_624","server":"38.68.134.9","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_652","server":"148.66.56.99","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_677","server":"38.68.134.191","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_678","server":"38.68.134.48","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_707","server":"38.91.101.159","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_76","server":"38.91.101.159","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"vmess","name":"github_mehdimoghaddam-cell_781","ws-opts":{"path":"/"},"server":"51.77.158.169","port":2096,"uuid":"c92fd902-b5d3-4208-bb48-630b1c7babea","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_792","server":"148.66.56.99","port":806,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_797","server":"38.68.134.191","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_829","server":"38.68.134.191","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_933","server":"38.121.43.71","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_934","server":"38.121.43.71","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"github_mehdimoghaddam-cell_970","server":"38.68.134.9","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+
+
 proxy-groups:
   - name: 🔰 همه پروکسی ها
     type: select
     proxies:
       - ♻️ انتخاب خودکار
       - DIRECT
-      - Telegram Channel:@BYEBYEFILTER
-      - Telegram Channel:@BYEBYEFILTER 2
-      - Telegram Channel:@BYEBYEFILTER 3
-      - Telegram Channel:@BYEBYEFILTER 4
-      - Telegram Channel:@BYEBYEFILTER 5
-      - Telegram Channel:@BYEBYEFILTER 6
-      - Telegram Channel:@BYEBYEFILTER 7
-      - Telegram Channel:@BYEBYEFILTER 8
-      - Telegram Channel:@BYEBYEFILTER 9
-      - Telegram Channel:@BYEBYEFILTER 10
-      - Telegram Channel:@BYEBYEFILTER 11
-      - Telegram Channel:@BYEBYEFILTER 12
-      - Telegram Channel:@BYEBYEFILTER 13
-      - Telegram Channel:@BYEBYEFILTER 14
-      - Telegram Channel:@BYEBYEFILTER 15
-      - Telegram Channel:@BYEBYEFILTER 16
-      - Telegram Channel:@BYEBYEFILTER 17
-      - Telegram Channel:@BYEBYEFILTER 18
-      - Telegram Channel:@BYEBYEFILTER 19
-      - Telegram Channel:@BYEBYEFILTER 20
-      - Telegram Channel:@BYEBYEFILTER 21
-      - Telegram Channel:@BYEBYEFILTER 22
-      - Telegram Channel:@BYEBYEFILTER 23
-      - Telegram Channel:@BYEBYEFILTER 24
-      - Telegram Channel:@BYEBYEFILTER 25
-      - Telegram Channel:@BYEBYEFILTER 26
-      - Telegram Channel:@BYEBYEFILTER 27
-      - Telegram Channel:@BYEBYEFILTER 28
-      - Telegram Channel:@BYEBYEFILTER 29
-      - Telegram Channel:@BYEBYEFILTER 30
-      - Telegram Channel:@BYEBYEFILTER 31
-      - Telegram Channel:@BYEBYEFILTER 32
-      - Telegram Channel:@BYEBYEFILTER 33
-      - Telegram Channel:@BYEBYEFILTER 34
-      - Telegram Channel:@BYEBYEFILTER 35
-      - Telegram Channel:@BYEBYEFILTER 36
-      - Telegram Channel:@BYEBYEFILTER 37
-      - Telegram Channel:@BYEBYEFILTER 38
-      - Telegram Channel:@BYEBYEFILTER 39
-      - Telegram Channel:@BYEBYEFILTER 40
-      - Telegram Channel:@BYEBYEFILTER 41
-      - Telegram Channel:@BYEBYEFILTER 42
-      - Telegram Channel:@BYEBYEFILTER 43
-      - Telegram Channel:@BYEBYEFILTER 44
-      - Telegram Channel:@BYEBYEFILTER 45
-      - Telegram Channel:@BYEBYEFILTER 46
-      - Telegram Channel:@BYEBYEFILTER 47
-      - Telegram Channel:@BYEBYEFILTER 48
-      - Telegram Channel:@BYEBYEFILTER 49
-      - Telegram Channel:@BYEBYEFILTER 50
-      - Telegram Channel:@BYEBYEFILTER 51
-      - Telegram Channel:@BYEBYEFILTER 52
-      - Telegram Channel:@BYEBYEFILTER 53
-      - Telegram Channel:@BYEBYEFILTER 54
-      - Telegram Channel:@BYEBYEFILTER 55
-      - Telegram Channel:@BYEBYEFILTER 56
-      - Telegram Channel:@BYEBYEFILTER 57
-      - Telegram Channel:@BYEBYEFILTER 58
-      - Telegram Channel:@BYEBYEFILTER 59
-      - Telegram Channel:@BYEBYEFILTER 60
-      - Telegram Channel:@BYEBYEFILTER 61
-      - Telegram Channel:@BYEBYEFILTER 62
-      - Telegram Channel:@BYEBYEFILTER 63
-      - Telegram Channel:@BYEBYEFILTER 64
-      - Telegram Channel:@BYEBYEFILTER 65
-      - Telegram Channel:@BYEBYEFILTER 66
-      - Telegram Channel:@BYEBYEFILTER 67
-      - Telegram Channel:@BYEBYEFILTER 68
-      - Telegram Channel:@BYEBYEFILTER 69
-      - Telegram Channel:@BYEBYEFILTER 70
-      - Telegram Channel:@BYEBYEFILTER 71
-      - Telegram Channel:@BYEBYEFILTER 72
-      - Telegram Channel:@BYEBYEFILTER 73
-      - Telegram Channel:@BYEBYEFILTER 74
-      - Telegram Channel:@BYEBYEFILTER 75
-      - Telegram Channel:@BYEBYEFILTER 76
-      - Telegram Channel:@BYEBYEFILTER 77
-      - Telegram Channel:@BYEBYEFILTER 78
-      - Telegram Channel:@BYEBYEFILTER 79
-      - Telegram Channel:@BYEBYEFILTER 80
-      - Telegram Channel:@BYEBYEFILTER 81
-      - Telegram Channel:@BYEBYEFILTER 82
-      - Telegram Channel:@BYEBYEFILTER 83
-      - Telegram Channel:@BYEBYEFILTER 84
-      - Telegram Channel:@BYEBYEFILTER 85
-      - Telegram Channel:@BYEBYEFILTER 86
-      - Telegram Channel:@BYEBYEFILTER 87
-      - Telegram Channel:@BYEBYEFILTER 88
-      - Telegram Channel:@BYEBYEFILTER 89
-      - Telegram Channel:@BYEBYEFILTER 90
-      - Telegram Channel:@BYEBYEFILTER 91
-      - Telegram Channel:@BYEBYEFILTER 92
-      - Telegram Channel:@BYEBYEFILTER 93
-      - Telegram Channel:@BYEBYEFILTER 94
-      - Telegram Channel:@BYEBYEFILTER 95
-      - Telegram Channel:@BYEBYEFILTER 96
-      - Telegram Channel:@BYEBYEFILTER 97
-      - Telegram Channel:@BYEBYEFILTER 98
-      - Telegram Channel:@BYEBYEFILTER 99
-      - Telegram Channel:@BYEBYEFILTER 100
-      - Telegram Channel:@BYEBYEFILTER 101
-      - Telegram Channel:@BYEBYEFILTER 102
-      - Telegram Channel:@BYEBYEFILTER 103
-      - Telegram Channel:@BYEBYEFILTER 104
-      - Telegram Channel:@BYEBYEFILTER 105
-      - Telegram Channel:@BYEBYEFILTER 106
-      - Telegram Channel:@BYEBYEFILTER 107
-      - Telegram Channel:@BYEBYEFILTER 108
-      - Telegram Channel:@BYEBYEFILTER 109
-      - Telegram Channel:@BYEBYEFILTER 110
-      - Telegram Channel:@BYEBYEFILTER 111
-      - Telegram Channel:@BYEBYEFILTER 112
-      - Telegram Channel:@BYEBYEFILTER 113
-      - Telegram Channel:@BYEBYEFILTER 114
-      - Telegram Channel:@BYEBYEFILTER 115
-      - Telegram Channel:@BYEBYEFILTER 116
-      - Telegram Channel:@BYEBYEFILTER 117
-      - Telegram Channel:@BYEBYEFILTER 118
-      - Telegram Channel:@BYEBYEFILTER 119
-      - Telegram Channel:@BYEBYEFILTER 120
-      - Telegram Channel:@BYEBYEFILTER 121
-      - Telegram Channel:@BYEBYEFILTER 122
-      - Telegram Channel:@BYEBYEFILTER 123
-      - Telegram Channel:@BYEBYEFILTER 124
-      - Telegram Channel:@BYEBYEFILTER 125
-      - Telegram Channel:@BYEBYEFILTER 126
-      - Telegram Channel:@BYEBYEFILTER 127
-      - Telegram Channel:@BYEBYEFILTER 128
-      - Telegram Channel:@BYEBYEFILTER 129
-      - Telegram Channel:@BYEBYEFILTER 130
-      - Telegram Channel:@BYEBYEFILTER 131
-      - Telegram Channel:@BYEBYEFILTER 132
-      - Telegram Channel:@BYEBYEFILTER 133
-      - Telegram Channel:@BYEBYEFILTER 134
-      - Telegram Channel:@BYEBYEFILTER 135
-      - Telegram Channel:@BYEBYEFILTER 136
-      - Telegram Channel:@BYEBYEFILTER 137
-      - Telegram Channel:@BYEBYEFILTER 138
-      - Telegram Channel:@BYEBYEFILTER 139
-      - Telegram Channel:@BYEBYEFILTER 140
-      - Telegram Channel:@BYEBYEFILTER 141
-      - Telegram Channel:@BYEBYEFILTER 142
-      - Telegram Channel:@BYEBYEFILTER 143
-      - Telegram Channel:@BYEBYEFILTER 144
-      - Telegram Channel:@BYEBYEFILTER 145
-      - Telegram Channel:@BYEBYEFILTER 146
-      - Telegram Channel:@BYEBYEFILTER 147
-      - Telegram Channel:@BYEBYEFILTER 148
-      - Telegram Channel:@BYEBYEFILTER 149
-      - Telegram Channel:@BYEBYEFILTER 150
-      - Telegram Channel:@BYEBYEFILTER 151
-      - Telegram Channel:@BYEBYEFILTER 152
-      - Telegram Channel:@BYEBYEFILTER 153
-      - Telegram Channel:@BYEBYEFILTER 154
-      - Telegram Channel:@BYEBYEFILTER 155
-      - Telegram Channel:@BYEBYEFILTER 156
-      - Telegram Channel:@BYEBYEFILTER 157
-      - Telegram Channel:@BYEBYEFILTER 158
-      - Telegram Channel:@BYEBYEFILTER 159
-      - Telegram Channel:@BYEBYEFILTER 160
-      - Telegram Channel:@BYEBYEFILTER 161
-      - Telegram Channel:@BYEBYEFILTER 162
-      - Telegram Channel:@BYEBYEFILTER 163
-      - Telegram Channel:@BYEBYEFILTER 164
-      - Telegram Channel:@BYEBYEFILTER 165
-      - Telegram Channel:@BYEBYEFILTER 166
-      - Telegram Channel:@BYEBYEFILTER 167
-      - Telegram Channel:@BYEBYEFILTER 168
-      - Telegram Channel:@BYEBYEFILTER 169
-      - Telegram Channel:@BYEBYEFILTER 170
-      - Telegram Channel:@BYEBYEFILTER 171
-      - Telegram Channel:@BYEBYEFILTER 172
-      - Telegram Channel:@BYEBYEFILTER 173
-      - Telegram Channel:@BYEBYEFILTER 174
-      - Telegram Channel:@BYEBYEFILTER 175
-      - Telegram Channel:@BYEBYEFILTER 176
-      - Telegram Channel:@BYEBYEFILTER 177
-      - Telegram Channel:@BYEBYEFILTER 178
-      - Telegram Channel:@BYEBYEFILTER 179
-      - Telegram Channel:@BYEBYEFILTER 180
-      - Telegram Channel:@BYEBYEFILTER 181
-      - Telegram Channel:@BYEBYEFILTER 182
-      - Telegram Channel:@BYEBYEFILTER 183
-      - Telegram Channel:@BYEBYEFILTER 184
-      - Telegram Channel:@BYEBYEFILTER 185
-      - Telegram Channel:@BYEBYEFILTER 186
-      - Telegram Channel:@BYEBYEFILTER 187
-      - Telegram Channel:@BYEBYEFILTER 188
-      - Telegram Channel:@BYEBYEFILTER 189
-      - Telegram Channel:@BYEBYEFILTER 190
-      - Telegram Channel:@BYEBYEFILTER 191
-      - Telegram Channel:@BYEBYEFILTER 192
-      - Telegram Channel:@BYEBYEFILTER 193
-      - Telegram Channel:@BYEBYEFILTER 194
-      - Telegram Channel:@BYEBYEFILTER 195
-      - Telegram Channel:@BYEBYEFILTER 196
-      - Telegram Channel:@BYEBYEFILTER 197
-      - Telegram Channel:@BYEBYEFILTER 198
-      - Telegram Channel:@BYEBYEFILTER 199
-      - Telegram Channel:@BYEBYEFILTER 200
-      - Telegram Channel:@BYEBYEFILTER 201
-      - Telegram Channel:@BYEBYEFILTER 202
-      - Telegram Channel:@BYEBYEFILTER 203
-      - Telegram Channel:@BYEBYEFILTER 204
-      - Telegram Channel:@BYEBYEFILTER 205
-      - Telegram Channel:@BYEBYEFILTER 206
-      - Telegram Channel:@BYEBYEFILTER 207
-      - Telegram Channel:@BYEBYEFILTER 208
-      - Telegram Channel:@BYEBYEFILTER 209
-      - Telegram Channel:@BYEBYEFILTER 210
-      - Telegram Channel:@BYEBYEFILTER 211
-      - Telegram Channel:@BYEBYEFILTER 212
-      - Telegram Channel:@BYEBYEFILTER 213
-      - Telegram Channel:@BYEBYEFILTER 214
-      - Telegram Channel:@BYEBYEFILTER 215
-      - Telegram Channel:@BYEBYEFILTER 216
-      - Telegram Channel:@BYEBYEFILTER 217
-      - Telegram Channel:@BYEBYEFILTER 218
-      - Telegram Channel:@BYEBYEFILTER 219
-      - Telegram Channel:@BYEBYEFILTER 220
-      - Telegram Channel:@BYEBYEFILTER 221
-      - Telegram Channel:@BYEBYEFILTER 222
-      - Telegram Channel:@BYEBYEFILTER 223
-      - Telegram Channel:@BYEBYEFILTER 224
-      - Telegram Channel:@BYEBYEFILTER 225
-      - Telegram Channel:@BYEBYEFILTER 226
-      - Telegram Channel:@BYEBYEFILTER 227
-      - Telegram Channel:@BYEBYEFILTER 228
-      - Telegram Channel:@BYEBYEFILTER 229
-      - Telegram Channel:@BYEBYEFILTER 230
-      - Telegram Channel:@BYEBYEFILTER 231
-      - Telegram Channel:@BYEBYEFILTER 232
-      - Telegram Channel:@BYEBYEFILTER 233
-      - Telegram Channel:@BYEBYEFILTER 234
-      - Telegram Channel:@BYEBYEFILTER 235
-      - Telegram Channel:@BYEBYEFILTER 236
-      - Telegram Channel:@BYEBYEFILTER 237
-      - Telegram Channel:@BYEBYEFILTER 238
-      - Telegram Channel:@BYEBYEFILTER 239
-      - Telegram Channel:@BYEBYEFILTER 240
-      - Telegram Channel:@BYEBYEFILTER 241
-      - Telegram Channel:@BYEBYEFILTER 242
-      - Telegram Channel:@BYEBYEFILTER 243
-      - Telegram Channel:@BYEBYEFILTER 244
-      - Telegram Channel:@BYEBYEFILTER 245
-      - Telegram Channel:@BYEBYEFILTER 246
-      - Telegram Channel:@BYEBYEFILTER 247
-      - Telegram Channel:@BYEBYEFILTER 248
-      - Telegram Channel:@BYEBYEFILTER 249
-      - Telegram Channel:@BYEBYEFILTER 250
+      - github_mehdimoghaddam-cell_102
+      - github_mehdimoghaddam-cell_1055
+      - github_mehdimoghaddam-cell_1110
+      - github_mehdimoghaddam-cell_1182
+      - github_mehdimoghaddam-cell_1203
+      - github_mehdimoghaddam-cell_1218
+      - github_mehdimoghaddam-cell_1236
+      - github_mehdimoghaddam-cell_1252
+      - github_mehdimoghaddam-cell_1273
+      - github_mehdimoghaddam-cell_1289
+      - github_mehdimoghaddam-cell_1291
+      - github_mehdimoghaddam-cell_1310
+      - github_mehdimoghaddam-cell_1392
+      - github_mehdimoghaddam-cell_1429
+      - github_mehdimoghaddam-cell_1544
+      - github_mehdimoghaddam-cell_1632
+      - github_mehdimoghaddam-cell_1646
+      - github_mehdimoghaddam-cell_1754
+      - github_mehdimoghaddam-cell_1755
+      - github_mehdimoghaddam-cell_1791
+      - github_mehdimoghaddam-cell_1792
+      - github_mehdimoghaddam-cell_1800
+      - github_mehdimoghaddam-cell_1801
+      - github_mehdimoghaddam-cell_1812
+      - github_mehdimoghaddam-cell_1849
+      - github_mehdimoghaddam-cell_1926
+      - github_mehdimoghaddam-cell_1941
+      - github_mehdimoghaddam-cell_1955
+      - github_mehdimoghaddam-cell_1966
+      - github_mehdimoghaddam-cell_2082
+      - github_mehdimoghaddam-cell_2113
+      - github_mehdimoghaddam-cell_2118
+      - github_mehdimoghaddam-cell_2133
+      - github_mehdimoghaddam-cell_2247
+      - github_mehdimoghaddam-cell_2264
+      - github_mehdimoghaddam-cell_2267
+      - github_mehdimoghaddam-cell_2297
+      - github_mehdimoghaddam-cell_231
+      - github_mehdimoghaddam-cell_2352
+      - github_mehdimoghaddam-cell_2368
+      - github_mehdimoghaddam-cell_2407
+      - github_mehdimoghaddam-cell_2459
+      - github_mehdimoghaddam-cell_2468
+      - github_mehdimoghaddam-cell_2478
+      - github_mehdimoghaddam-cell_2515
+      - github_mehdimoghaddam-cell_2546
+      - github_mehdimoghaddam-cell_2547
+      - github_mehdimoghaddam-cell_256
+      - github_mehdimoghaddam-cell_2614
+      - github_mehdimoghaddam-cell_2645
+      - github_mehdimoghaddam-cell_265
+      - github_mehdimoghaddam-cell_266
+      - github_mehdimoghaddam-cell_283
+      - github_mehdimoghaddam-cell_284
+      - github_mehdimoghaddam-cell_405
+      - github_mehdimoghaddam-cell_421
+      - github_mehdimoghaddam-cell_426
+      - github_mehdimoghaddam-cell_433
+      - github_mehdimoghaddam-cell_460
+      - github_mehdimoghaddam-cell_490
+      - github_mehdimoghaddam-cell_572
+      - github_mehdimoghaddam-cell_58
+      - github_mehdimoghaddam-cell_610
+      - github_mehdimoghaddam-cell_624
+      - github_mehdimoghaddam-cell_652
+      - github_mehdimoghaddam-cell_677
+      - github_mehdimoghaddam-cell_678
+      - github_mehdimoghaddam-cell_707
+      - github_mehdimoghaddam-cell_76
+      - github_mehdimoghaddam-cell_781
+      - github_mehdimoghaddam-cell_792
+      - github_mehdimoghaddam-cell_797
+      - github_mehdimoghaddam-cell_829
+      - github_mehdimoghaddam-cell_933
+      - github_mehdimoghaddam-cell_934
+      - github_mehdimoghaddam-cell_970
+      
   - name: ♻️ انتخاب خودکار
     type: url-test
     url: https://www.google.com
     interval: 300
     tolerance: 50
     proxies:
-      - Telegram Channel:@BYEBYEFILTER
-      - Telegram Channel:@BYEBYEFILTER 2
-      - Telegram Channel:@BYEBYEFILTER 3
-      - Telegram Channel:@BYEBYEFILTER 4
-      - Telegram Channel:@BYEBYEFILTER 5
-      - Telegram Channel:@BYEBYEFILTER 6
-      - Telegram Channel:@BYEBYEFILTER 7
-      - Telegram Channel:@BYEBYEFILTER 8
-      - Telegram Channel:@BYEBYEFILTER 9
-      - Telegram Channel:@BYEBYEFILTER 10
-      - Telegram Channel:@BYEBYEFILTER 11
-      - Telegram Channel:@BYEBYEFILTER 12
-      - Telegram Channel:@BYEBYEFILTER 13
-      - Telegram Channel:@BYEBYEFILTER 14
-      - Telegram Channel:@BYEBYEFILTER 15
-      - Telegram Channel:@BYEBYEFILTER 16
-      - Telegram Channel:@BYEBYEFILTER 17
-      - Telegram Channel:@BYEBYEFILTER 18
-      - Telegram Channel:@BYEBYEFILTER 19
-      - Telegram Channel:@BYEBYEFILTER 20
-      - Telegram Channel:@BYEBYEFILTER 21
-      - Telegram Channel:@BYEBYEFILTER 22
-      - Telegram Channel:@BYEBYEFILTER 23
-      - Telegram Channel:@BYEBYEFILTER 24
-      - Telegram Channel:@BYEBYEFILTER 25
-      - Telegram Channel:@BYEBYEFILTER 26
-      - Telegram Channel:@BYEBYEFILTER 27
-      - Telegram Channel:@BYEBYEFILTER 28
-      - Telegram Channel:@BYEBYEFILTER 29
-      - Telegram Channel:@BYEBYEFILTER 30
-      - Telegram Channel:@BYEBYEFILTER 31
-      - Telegram Channel:@BYEBYEFILTER 32
-      - Telegram Channel:@BYEBYEFILTER 33
-      - Telegram Channel:@BYEBYEFILTER 34
-      - Telegram Channel:@BYEBYEFILTER 35
-      - Telegram Channel:@BYEBYEFILTER 36
-      - Telegram Channel:@BYEBYEFILTER 37
-      - Telegram Channel:@BYEBYEFILTER 38
-      - Telegram Channel:@BYEBYEFILTER 39
-      - Telegram Channel:@BYEBYEFILTER 40
-      - Telegram Channel:@BYEBYEFILTER 41
-      - Telegram Channel:@BYEBYEFILTER 42
-      - Telegram Channel:@BYEBYEFILTER 43
-      - Telegram Channel:@BYEBYEFILTER 44
-      - Telegram Channel:@BYEBYEFILTER 45
-      - Telegram Channel:@BYEBYEFILTER 46
-      - Telegram Channel:@BYEBYEFILTER 47
-      - Telegram Channel:@BYEBYEFILTER 48
-      - Telegram Channel:@BYEBYEFILTER 49
-      - Telegram Channel:@BYEBYEFILTER 50
-      - Telegram Channel:@BYEBYEFILTER 51
-      - Telegram Channel:@BYEBYEFILTER 52
-      - Telegram Channel:@BYEBYEFILTER 53
-      - Telegram Channel:@BYEBYEFILTER 54
-      - Telegram Channel:@BYEBYEFILTER 55
-      - Telegram Channel:@BYEBYEFILTER 56
-      - Telegram Channel:@BYEBYEFILTER 57
-      - Telegram Channel:@BYEBYEFILTER 58
-      - Telegram Channel:@BYEBYEFILTER 59
-      - Telegram Channel:@BYEBYEFILTER 60
-      - Telegram Channel:@BYEBYEFILTER 61
-      - Telegram Channel:@BYEBYEFILTER 62
-      - Telegram Channel:@BYEBYEFILTER 63
-      - Telegram Channel:@BYEBYEFILTER 64
-      - Telegram Channel:@BYEBYEFILTER 65
-      - Telegram Channel:@BYEBYEFILTER 66
-      - Telegram Channel:@BYEBYEFILTER 67
-      - Telegram Channel:@BYEBYEFILTER 68
-      - Telegram Channel:@BYEBYEFILTER 69
-      - Telegram Channel:@BYEBYEFILTER 70
-      - Telegram Channel:@BYEBYEFILTER 71
-      - Telegram Channel:@BYEBYEFILTER 72
-      - Telegram Channel:@BYEBYEFILTER 73
-      - Telegram Channel:@BYEBYEFILTER 74
-      - Telegram Channel:@BYEBYEFILTER 75
-      - Telegram Channel:@BYEBYEFILTER 76
-      - Telegram Channel:@BYEBYEFILTER 77
-      - Telegram Channel:@BYEBYEFILTER 78
-      - Telegram Channel:@BYEBYEFILTER 79
-      - Telegram Channel:@BYEBYEFILTER 80
-      - Telegram Channel:@BYEBYEFILTER 81
-      - Telegram Channel:@BYEBYEFILTER 82
-      - Telegram Channel:@BYEBYEFILTER 83
-      - Telegram Channel:@BYEBYEFILTER 84
-      - Telegram Channel:@BYEBYEFILTER 85
-      - Telegram Channel:@BYEBYEFILTER 86
-      - Telegram Channel:@BYEBYEFILTER 87
-      - Telegram Channel:@BYEBYEFILTER 88
-      - Telegram Channel:@BYEBYEFILTER 89
-      - Telegram Channel:@BYEBYEFILTER 90
-      - Telegram Channel:@BYEBYEFILTER 91
-      - Telegram Channel:@BYEBYEFILTER 92
-      - Telegram Channel:@BYEBYEFILTER 93
-      - Telegram Channel:@BYEBYEFILTER 94
-      - Telegram Channel:@BYEBYEFILTER 95
-      - Telegram Channel:@BYEBYEFILTER 96
-      - Telegram Channel:@BYEBYEFILTER 97
-      - Telegram Channel:@BYEBYEFILTER 98
-      - Telegram Channel:@BYEBYEFILTER 99
-      - Telegram Channel:@BYEBYEFILTER 100
-      - Telegram Channel:@BYEBYEFILTER 101
-      - Telegram Channel:@BYEBYEFILTER 102
-      - Telegram Channel:@BYEBYEFILTER 103
-      - Telegram Channel:@BYEBYEFILTER 104
-      - Telegram Channel:@BYEBYEFILTER 105
-      - Telegram Channel:@BYEBYEFILTER 106
-      - Telegram Channel:@BYEBYEFILTER 107
-      - Telegram Channel:@BYEBYEFILTER 108
-      - Telegram Channel:@BYEBYEFILTER 109
-      - Telegram Channel:@BYEBYEFILTER 110
-      - Telegram Channel:@BYEBYEFILTER 111
-      - Telegram Channel:@BYEBYEFILTER 112
-      - Telegram Channel:@BYEBYEFILTER 113
-      - Telegram Channel:@BYEBYEFILTER 114
-      - Telegram Channel:@BYEBYEFILTER 115
-      - Telegram Channel:@BYEBYEFILTER 116
-      - Telegram Channel:@BYEBYEFILTER 117
-      - Telegram Channel:@BYEBYEFILTER 118
-      - Telegram Channel:@BYEBYEFILTER 119
-      - Telegram Channel:@BYEBYEFILTER 120
-      - Telegram Channel:@BYEBYEFILTER 121
-      - Telegram Channel:@BYEBYEFILTER 122
-      - Telegram Channel:@BYEBYEFILTER 123
-      - Telegram Channel:@BYEBYEFILTER 124
-      - Telegram Channel:@BYEBYEFILTER 125
-      - Telegram Channel:@BYEBYEFILTER 126
-      - Telegram Channel:@BYEBYEFILTER 127
-      - Telegram Channel:@BYEBYEFILTER 128
-      - Telegram Channel:@BYEBYEFILTER 129
-      - Telegram Channel:@BYEBYEFILTER 130
-      - Telegram Channel:@BYEBYEFILTER 131
-      - Telegram Channel:@BYEBYEFILTER 132
-      - Telegram Channel:@BYEBYEFILTER 133
-      - Telegram Channel:@BYEBYEFILTER 134
-      - Telegram Channel:@BYEBYEFILTER 135
-      - Telegram Channel:@BYEBYEFILTER 136
-      - Telegram Channel:@BYEBYEFILTER 137
-      - Telegram Channel:@BYEBYEFILTER 138
-      - Telegram Channel:@BYEBYEFILTER 139
-      - Telegram Channel:@BYEBYEFILTER 140
-      - Telegram Channel:@BYEBYEFILTER 141
-      - Telegram Channel:@BYEBYEFILTER 142
-      - Telegram Channel:@BYEBYEFILTER 143
-      - Telegram Channel:@BYEBYEFILTER 144
-      - Telegram Channel:@BYEBYEFILTER 145
-      - Telegram Channel:@BYEBYEFILTER 146
-      - Telegram Channel:@BYEBYEFILTER 147
-      - Telegram Channel:@BYEBYEFILTER 148
-      - Telegram Channel:@BYEBYEFILTER 149
-      - Telegram Channel:@BYEBYEFILTER 150
-      - Telegram Channel:@BYEBYEFILTER 151
-      - Telegram Channel:@BYEBYEFILTER 152
-      - Telegram Channel:@BYEBYEFILTER 153
-      - Telegram Channel:@BYEBYEFILTER 154
-      - Telegram Channel:@BYEBYEFILTER 155
-      - Telegram Channel:@BYEBYEFILTER 156
-      - Telegram Channel:@BYEBYEFILTER 157
-      - Telegram Channel:@BYEBYEFILTER 158
-      - Telegram Channel:@BYEBYEFILTER 159
-      - Telegram Channel:@BYEBYEFILTER 160
-      - Telegram Channel:@BYEBYEFILTER 161
-      - Telegram Channel:@BYEBYEFILTER 162
-      - Telegram Channel:@BYEBYEFILTER 163
-      - Telegram Channel:@BYEBYEFILTER 164
-      - Telegram Channel:@BYEBYEFILTER 165
-      - Telegram Channel:@BYEBYEFILTER 166
-      - Telegram Channel:@BYEBYEFILTER 167
-      - Telegram Channel:@BYEBYEFILTER 168
-      - Telegram Channel:@BYEBYEFILTER 169
-      - Telegram Channel:@BYEBYEFILTER 170
-      - Telegram Channel:@BYEBYEFILTER 171
-      - Telegram Channel:@BYEBYEFILTER 172
-      - Telegram Channel:@BYEBYEFILTER 173
-      - Telegram Channel:@BYEBYEFILTER 174
-      - Telegram Channel:@BYEBYEFILTER 175
-      - Telegram Channel:@BYEBYEFILTER 176
-      - Telegram Channel:@BYEBYEFILTER 177
-      - Telegram Channel:@BYEBYEFILTER 178
-      - Telegram Channel:@BYEBYEFILTER 179
-      - Telegram Channel:@BYEBYEFILTER 180
-      - Telegram Channel:@BYEBYEFILTER 181
-      - Telegram Channel:@BYEBYEFILTER 182
-      - Telegram Channel:@BYEBYEFILTER 183
-      - Telegram Channel:@BYEBYEFILTER 184
-      - Telegram Channel:@BYEBYEFILTER 185
-      - Telegram Channel:@BYEBYEFILTER 186
-      - Telegram Channel:@BYEBYEFILTER 187
-      - Telegram Channel:@BYEBYEFILTER 188
-      - Telegram Channel:@BYEBYEFILTER 189
-      - Telegram Channel:@BYEBYEFILTER 190
-      - Telegram Channel:@BYEBYEFILTER 191
-      - Telegram Channel:@BYEBYEFILTER 192
-      - Telegram Channel:@BYEBYEFILTER 193
-      - Telegram Channel:@BYEBYEFILTER 194
-      - Telegram Channel:@BYEBYEFILTER 195
-      - Telegram Channel:@BYEBYEFILTER 196
-      - Telegram Channel:@BYEBYEFILTER 197
-      - Telegram Channel:@BYEBYEFILTER 198
-      - Telegram Channel:@BYEBYEFILTER 199
-      - Telegram Channel:@BYEBYEFILTER 200
-      - Telegram Channel:@BYEBYEFILTER 201
-      - Telegram Channel:@BYEBYEFILTER 202
-      - Telegram Channel:@BYEBYEFILTER 203
-      - Telegram Channel:@BYEBYEFILTER 204
-      - Telegram Channel:@BYEBYEFILTER 205
-      - Telegram Channel:@BYEBYEFILTER 206
-      - Telegram Channel:@BYEBYEFILTER 207
-      - Telegram Channel:@BYEBYEFILTER 208
-      - Telegram Channel:@BYEBYEFILTER 209
-      - Telegram Channel:@BYEBYEFILTER 210
-      - Telegram Channel:@BYEBYEFILTER 211
-      - Telegram Channel:@BYEBYEFILTER 212
-      - Telegram Channel:@BYEBYEFILTER 213
-      - Telegram Channel:@BYEBYEFILTER 214
-      - Telegram Channel:@BYEBYEFILTER 215
-      - Telegram Channel:@BYEBYEFILTER 216
-      - Telegram Channel:@BYEBYEFILTER 217
-      - Telegram Channel:@BYEBYEFILTER 218
-      - Telegram Channel:@BYEBYEFILTER 219
-      - Telegram Channel:@BYEBYEFILTER 220
-      - Telegram Channel:@BYEBYEFILTER 221
-      - Telegram Channel:@BYEBYEFILTER 222
-      - Telegram Channel:@BYEBYEFILTER 223
-      - Telegram Channel:@BYEBYEFILTER 224
-      - Telegram Channel:@BYEBYEFILTER 225
-      - Telegram Channel:@BYEBYEFILTER 226
-      - Telegram Channel:@BYEBYEFILTER 227
-      - Telegram Channel:@BYEBYEFILTER 228
-      - Telegram Channel:@BYEBYEFILTER 229
-      - Telegram Channel:@BYEBYEFILTER 230
-      - Telegram Channel:@BYEBYEFILTER 231
-      - Telegram Channel:@BYEBYEFILTER 232
-      - Telegram Channel:@BYEBYEFILTER 233
-      - Telegram Channel:@BYEBYEFILTER 234
-      - Telegram Channel:@BYEBYEFILTER 235
-      - Telegram Channel:@BYEBYEFILTER 236
-      - Telegram Channel:@BYEBYEFILTER 237
-      - Telegram Channel:@BYEBYEFILTER 238
-      - Telegram Channel:@BYEBYEFILTER 239
-      - Telegram Channel:@BYEBYEFILTER 240
-      - Telegram Channel:@BYEBYEFILTER 241
-      - Telegram Channel:@BYEBYEFILTER 242
-      - Telegram Channel:@BYEBYEFILTER 243
-      - Telegram Channel:@BYEBYEFILTER 244
-      - Telegram Channel:@BYEBYEFILTER 245
-      - Telegram Channel:@BYEBYEFILTER 246
-      - Telegram Channel:@BYEBYEFILTER 247
-      - Telegram Channel:@BYEBYEFILTER 248
-      - Telegram Channel:@BYEBYEFILTER 249
-      - Telegram Channel:@BYEBYEFILTER 250
+      - github_mehdimoghaddam-cell_102
+      - github_mehdimoghaddam-cell_1055
+      - github_mehdimoghaddam-cell_1110
+      - github_mehdimoghaddam-cell_1182
+      - github_mehdimoghaddam-cell_1203
+      - github_mehdimoghaddam-cell_1218
+      - github_mehdimoghaddam-cell_1236
+      - github_mehdimoghaddam-cell_1252
+      - github_mehdimoghaddam-cell_1273
+      - github_mehdimoghaddam-cell_1289
+      - github_mehdimoghaddam-cell_1291
+      - github_mehdimoghaddam-cell_1310
+      - github_mehdimoghaddam-cell_1392
+      - github_mehdimoghaddam-cell_1429
+      - github_mehdimoghaddam-cell_1544
+      - github_mehdimoghaddam-cell_1632
+      - github_mehdimoghaddam-cell_1646
+      - github_mehdimoghaddam-cell_1754
+      - github_mehdimoghaddam-cell_1755
+      - github_mehdimoghaddam-cell_1791
+      - github_mehdimoghaddam-cell_1792
+      - github_mehdimoghaddam-cell_1800
+      - github_mehdimoghaddam-cell_1801
+      - github_mehdimoghaddam-cell_1812
+      - github_mehdimoghaddam-cell_1849
+      - github_mehdimoghaddam-cell_1926
+      - github_mehdimoghaddam-cell_1941
+      - github_mehdimoghaddam-cell_1955
+      - github_mehdimoghaddam-cell_1966
+      - github_mehdimoghaddam-cell_2082
+      - github_mehdimoghaddam-cell_2113
+      - github_mehdimoghaddam-cell_2118
+      - github_mehdimoghaddam-cell_2133
+      - github_mehdimoghaddam-cell_2247
+      - github_mehdimoghaddam-cell_2264
+      - github_mehdimoghaddam-cell_2267
+      - github_mehdimoghaddam-cell_2297
+      - github_mehdimoghaddam-cell_231
+      - github_mehdimoghaddam-cell_2352
+      - github_mehdimoghaddam-cell_2368
+      - github_mehdimoghaddam-cell_2407
+      - github_mehdimoghaddam-cell_2459
+      - github_mehdimoghaddam-cell_2468
+      - github_mehdimoghaddam-cell_2478
+      - github_mehdimoghaddam-cell_2515
+      - github_mehdimoghaddam-cell_2546
+      - github_mehdimoghaddam-cell_2547
+      - github_mehdimoghaddam-cell_256
+      - github_mehdimoghaddam-cell_2614
+      - github_mehdimoghaddam-cell_2645
+      - github_mehdimoghaddam-cell_265
+      - github_mehdimoghaddam-cell_266
+      - github_mehdimoghaddam-cell_283
+      - github_mehdimoghaddam-cell_284
+      - github_mehdimoghaddam-cell_405
+      - github_mehdimoghaddam-cell_421
+      - github_mehdimoghaddam-cell_426
+      - github_mehdimoghaddam-cell_433
+      - github_mehdimoghaddam-cell_460
+      - github_mehdimoghaddam-cell_490
+      - github_mehdimoghaddam-cell_572
+      - github_mehdimoghaddam-cell_58
+      - github_mehdimoghaddam-cell_610
+      - github_mehdimoghaddam-cell_624
+      - github_mehdimoghaddam-cell_652
+      - github_mehdimoghaddam-cell_677
+      - github_mehdimoghaddam-cell_678
+      - github_mehdimoghaddam-cell_707
+      - github_mehdimoghaddam-cell_76
+      - github_mehdimoghaddam-cell_781
+      - github_mehdimoghaddam-cell_792
+      - github_mehdimoghaddam-cell_797
+      - github_mehdimoghaddam-cell_829
+      - github_mehdimoghaddam-cell_933
+      - github_mehdimoghaddam-cell_934
+      - github_mehdimoghaddam-cell_970
+
   - name: ⛔Direct
     type: select
     proxies:
